@@ -143,4 +143,6 @@ extra_javascript:
 
 nav:
   - 文档合集: index.md
-  - 谷歌工程实践文档: GoogleEngineeringPracticesDocumentation/index.md
+  - 谷歌工程实践文档:
+    - 概述: GoogleEngineeringPracticesDocumentation/index.md
+    - 紧急情况: GoogleEngineeringPracticesDocumentation/emergencies.md
