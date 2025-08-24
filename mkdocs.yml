@@ -136,6 +136,10 @@ extra:
   version:
     provider: mike
 
+extra_javascript:
+  - javascripts/katex.min.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
 nav:
   - 文档合集: index.md
