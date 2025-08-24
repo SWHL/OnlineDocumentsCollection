@@ -87,9 +87,10 @@ plugins:
           site_name: OnlineDocumentsCollection
           link: /en/
           nav_translations:
+            文档合集: Documentation Collention
             谷歌工程实践文档: Google Engineering Practices Documentation
   - git-committers:
-      repository: SWHL/HikingRouteCollection
+      repository: SWHL/OnlineDocumentsCollection
       branch: main
       token: !!python/object/apply:os.getenv ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - git-revision-date-localized:
