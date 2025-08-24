@@ -72,23 +72,23 @@ plugins:
       pagination: false
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - i18n:
-      docs_structure: suffix
-      fallback_to_default: true
-      reconfigure_material: true
-      reconfigure_search: true
-      languages:
-        - locale: zh
-          name: 简体中文
-          default: true
-          build: true
-        - locale: en
-          name: English
-          site_name: OnlineDocumentsCollection
-          link: /en/
-          nav_translations:
-            文档合集: Documentation Collention
-            谷歌工程实践文档: Google Engineering Practices Documentation
+  # - i18n:
+  #     docs_structure: suffix
+  #     fallback_to_default: true
+  #     reconfigure_material: true
+  #     reconfigure_search: true
+  #     languages:
+  #       - locale: zh
+  #         name: 简体中文
+  #         default: true
+  #         build: true
+  #       - locale: en
+  #         name: English
+  #         site_name: OnlineDocumentsCollection
+  #         link: /en/
+  #         nav_translations:
+  #           文档合集: Documentation Collention
+  #           谷歌工程实践文档: Google Engineering Practices Documentation
   - git-committers:
       repository: SWHL/OnlineDocumentsCollection
       branch: main
@@ -143,6 +143,4 @@ extra_javascript:
 
 nav:
   - 文档合集: index.md
-  - 谷歌工程实践文档:
-    - 概述: GoogleEngineeringPracticesDocumentation/index.md
-    - 紧急情况: GoogleEngineeringPracticesDocumentation/emergencies.md
+  - 紧急情况: emergencies.md
