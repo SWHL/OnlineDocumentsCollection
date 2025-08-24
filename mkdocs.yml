@@ -64,7 +64,6 @@ theme:
 
 
 plugins:
-  - tags:
   - blog:
       archive: false
       post_date_format: short
