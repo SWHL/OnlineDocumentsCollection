@@ -89,6 +89,21 @@ plugins:
           nav_translations:
             文档合集: Documentation Collention
             谷歌工程实践文档: Google Engineering Practices Documentation
+            概述: Overview
+            开发者指南: Developer Guide
+            CL开发者指南: CL Developer Guide
+            写好CL描述: Writing Good CL Descriptions
+            简短化CL: Small CLs
+            如何处理评审者的建议？: How to Handle Reviewer Comments
+            评审者指南: Reviewer Guide
+            如何做代码评审？: How to Do a Code Review
+            代码评审标准: Code Review Standards
+            代码评审应该关注什么？: What to Look for in a Code Review
+            代码评审的步骤: How to Navigate a Large CL
+            代码评审的速度: Speed of Code Reviews
+            在代码评审中如何写评论: How to Write Code Review Comments
+            处理代码评审中的反驳: How to Handle Pushback in Code Reviews
+            紧急情况: Emergency Procedures
   - git-committers:
       repository: SWHL/OnlineDocumentsCollection
       branch: main
@@ -146,7 +161,16 @@ nav:
   - 谷歌工程实践文档:
     - 概述: GoogleEngineeringPracticesDocumentation/index.md
     - 开发者指南:
-      - CL开发者指南 —— 更好的通过代码评审: GoogleEngineeringPracticesDocumentation/developer/index.md
+      - CL开发者指南: GoogleEngineeringPracticesDocumentation/developer/index.md
+      - 写好CL描述: GoogleEngineeringPracticesDocumentation/developer/cl-descriptions.md
+      - 简短化CL: GoogleEngineeringPracticesDocumentation/developer/small-cls.md
+      - 如何处理评审者的建议？: GoogleEngineeringPracticesDocumentation/developer/handling-comments.md
     - 评审者指南:
       - 如何做代码评审？: GoogleEngineeringPracticesDocumentation/reviewer/index.md
+      - 代码评审标准: GoogleEngineeringPracticesDocumentation/reviewer/standard.md
+      - 代码评审应该关注什么？: GoogleEngineeringPracticesDocumentation/reviewer/looking-for.md
+      - 代码评审的步骤: GoogleEngineeringPracticesDocumentation/reviewer/navigate.md
+      - 代码评审的速度: GoogleEngineeringPracticesDocumentation/reviewer/speed.md
+      - 在代码评审中如何写评论: GoogleEngineeringPracticesDocumentation/reviewer/comments.md
+      - 处理代码评审中的反驳: GoogleEngineeringPracticesDocumentation/reviewer/pushback.md
     - 紧急情况: GoogleEngineeringPracticesDocumentation/emergencies.md
