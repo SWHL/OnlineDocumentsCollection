@@ -1,4 +1,6 @@
-# Navigating a CL in review
+---
+comments: true
+---
 
 ## Summary
 

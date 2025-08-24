@@ -1,4 +1,6 @@
-# How to write code review comments
+---
+comments: true
+---
 
 ## Summary
 

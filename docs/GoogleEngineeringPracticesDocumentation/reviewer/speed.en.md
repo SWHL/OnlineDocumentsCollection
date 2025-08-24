@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Speed of Code Reviews
 
 ## Why Should Code Reviews Be Fast? {#why}

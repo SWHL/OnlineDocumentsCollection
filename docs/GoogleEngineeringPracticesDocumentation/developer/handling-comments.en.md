@@ -1,8 +1,11 @@
+---
+comments: true
+---
+
 # How to handle reviewer comments
 
-When you've sent a CL out for review, it's likely that your reviewer will
-respond with several comments on your CL. Here are some useful things to know
-about handling reviewer comments.
+When you submit a change for code review, you will likely receive comments from
+reviewers on your change. Here are some suggestions for handling those comments.
 
 ## Don't Take it Personally {#personal}
 

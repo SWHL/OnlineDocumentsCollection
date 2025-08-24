@@ -1,4 +1,8 @@
-# What to look for in a code review
+---
+comments: true
+---
+
+# What to Look For In a Code Review
 
 Note: Always make sure to take into account
 [The Standard of Code Review](standard.md) when considering each of these

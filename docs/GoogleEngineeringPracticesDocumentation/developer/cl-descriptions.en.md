@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Writing good CL descriptions
 
 A CL description is a public record of change, and it is important that it

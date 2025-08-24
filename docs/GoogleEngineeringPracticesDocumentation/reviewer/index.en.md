@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # How to do a code review
 
 The pages in this section contain recommendations on the best way to do code

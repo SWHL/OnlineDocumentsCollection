@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # Small CLs
 
 ## Why Write Small CLs? {#why}

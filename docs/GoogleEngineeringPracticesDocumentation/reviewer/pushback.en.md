@@ -1,4 +1,8 @@
-# Handling pushback in code reviews
+---
+comments: true
+---
+
+# How to Handle Pushback in Code Reviews
 
 Sometimes a developer will push back on a code review. Either they will disagree
 with your suggestion or they will complain that you are being too strict in
