@@ -5,6 +5,8 @@ comments: true
 
 # 代码评审开发者指南
 
+> 【转载】文档来自：[谷歌工程实践文档](https://github.com/xindoo/eng-practices-cn)
+
 ## 介绍
 
 代码评审是一些人提交一些代码片段，供另外一些人审阅的流程。
