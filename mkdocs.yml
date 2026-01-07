@@ -156,6 +156,9 @@ extra_javascript:
   - https://unpkg.com/katex@0/dist/katex.min.js
   - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - 文档合集: index.md
   - 谷歌工程实践文档:
