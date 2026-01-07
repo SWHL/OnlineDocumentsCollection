@@ -39,7 +39,7 @@ theme:
 
     - media: "(prefers-color-scheme: light)" # 浅色
       scheme: default
-      primary: black
+      primary: custom
       accent: black
       toggle:
         icon: material/brightness-7
@@ -158,6 +158,7 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+  - https://static.zeoseven.com/zsft/292/main/result.css
 
 nav:
   - 文档合集: index.md
