@@ -10,7 +10,7 @@ comments: true
 
 <div class="grid" markdown>
 
-```yaml linenums="1"
+```yaml linenums="1" title="config.yaml部分参数示例"
 Det:
     engine_type: 'openvino'
     lang_type: 'ch'
@@ -25,9 +25,7 @@ EngineConfig:
 
 ```
 
-config.yaml部分参数示例
-
-```python linenums="1" hl_lines="5-10"
+```python linenums="1" hl_lines="5-10" title="对应参数写法"
 from rapidocr import EngineType, LangDet, ModelType, OCRVersion, RapidOCR
 
 engine = RapidOCR(
@@ -42,15 +40,13 @@ engine = RapidOCR(
 )
 ```
 
-对应参数写法
-
 </div>
 
 ## 这是另一个测试
 
 <div class="grid" markdown>
 
-    ```yaml linenums="1"
+    ```yaml linenums="1" title="config.yaml部分参数示例"
     Det:
         engine_type: 'openvino'
         lang_type: 'ch'
@@ -65,9 +61,7 @@ engine = RapidOCR(
 
     ```
 
-    config.yaml部分参数示例
-
-    ```python linenums="1" hl_lines="5-10"
+    ```python linenums="1" hl_lines="5-10" title="对应参数写法"
     from rapidocr import EngineType, LangDet, ModelType, OCRVersion, RapidOCR
 
     engine = RapidOCR(
@@ -81,7 +75,5 @@ engine = RapidOCR(
         }
     )
     ```
-
-    对应参数写法
 
 </div>
